@@ -1,5 +1,4 @@
-# Ravishankar-J
-Hi-ya!!! 👋
+# Hi-ya!!! 👋
 ## I'm Ravishankar.
 **Machine Learning and Data Science Practitioner**
 
